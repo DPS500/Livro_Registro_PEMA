@@ -5,13 +5,13 @@ Projeto com parcerias entre a Universidade Federal do Oeste do Pará (UFOPA) Cam
 Desenvolver um Livro Registro digital para o PEMA.
 
 ## Objetivos Específicos
-Criar google forms o qual colete informações importante sobre as características do frequentadores/usuários do parque PEMA;
+1. Criar google forms o qual colete informações importante sobre as características do frequentadores/usuários do parque PEMA;
 
-Desenvolver um banco de dados com as variáveis importantes para a administração pública do PEMA;
+2. Desenvolver um banco de dados com as variáveis importantes para a administração pública do PEMA;
 
-Organizar, processar e analisar os dados para transformar em informações úteis para a administração do PEMA;
+3. Organizar, processar e analisar os dados para transformar em informações úteis para a administração do PEMA;
 
-Criar um dashboar de apresentação das informações públicas a partir dos dados do Livro Registro digital desenvolvido.
+4. Criar um dashboar de apresentação das informações públicas a partir dos dados do Livro Registro digital desenvolvido.
 
 # Equipe do projeto
 ## Coordenadores:
