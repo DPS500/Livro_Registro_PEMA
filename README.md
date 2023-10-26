@@ -14,7 +14,7 @@ Organizar, processar e analisar os dados para transformar em informações útei
 Criar um dashboar de apresentação das informações públicas a partir dos dados do Livro Registro digital desenvolvido.
 
 # Equipe do projeto
-# Coordenadores:
+## Coordenadores:
 Carlos Antônio Zarzar (UFOPA - MTA);
 Anna Lins (EETEPA - Turismo);
 Jorge (IDEFLOR-BIO);
