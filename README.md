@@ -23,7 +23,11 @@ Jorge (IDEFLOR-BIO);
 
 ## Desenvolvedores:
 Gabriel (UFOPA)
+
 Luan (UFOPA)
+
 Daniel (UFOPA)
+
 EETEPA
+
 EETEPA
